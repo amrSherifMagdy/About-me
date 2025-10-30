@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently working on<br>Data Analysis and Machine Learning projects using Python<br>🤝 I’m looking to collaborate on<br>AI, Data Analysis, or open-source data projects<br>🆘 I’m looking for help with<br>Improving my visualization and cloud deployment skills<br>📚 I’m currently learning<br>Data Analysis, Machine Learning, and Cloud Computing<br>💬 Ask me about<br>Python, data workflows, or sushi making<br>⚡ Fun fact<br>I’m a sushi chef who’s learning to turn data into insights
+🧠 I’m currently working on<br>Data Analysis and Machine Learning projects using Python<br>🤝 I’m looking to collaborate on<br>AI, Data Analysis, or open-source data projects<br>🆘 I’m looking for help with<br>Improving my visualization and cloud deployment skills<br>📚 I’m currently learning<br>Data Analysis and Machine Learning<br>⚡ Fun fact<br>I’m a sushi chef who’s learning to turn data into insights
 
 
 ## 🌐 Socials:
